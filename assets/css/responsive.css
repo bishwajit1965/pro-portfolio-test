@@ -1,0 +1,91 @@
+@media only screen and (max-width: 700px) {
+  .left-content-box {
+    width: 100%;
+    flex: 1 auto;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  .right-content-box {
+    width: 100%;
+    flex: 1 auto;
+    padding: 1rem;
+  }
+  .text-area {
+    width: 100%;
+    flex: 1 auto;
+    padding: 1rem;
+  }
+  .text-area > p {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  .about-image-area {
+    width: 100%;
+    flex: 1 auto;
+    padding: 1rem;
+  }
+  .image-area {
+    width: 100%;
+    flex: 1 auto;
+    padding: 1rem;
+  }
+  .about-text-area {
+    width: 100%;
+    flex: 1 auto;
+    padding: 1rem;
+  }
+  .about-text-area > p {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  .my-recipe {
+    width: 100%;
+    flex: 1 auto;
+    padding: 1rem;
+  }
+  .left-content-box > p {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  .right-content-box p {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  .title-div {
+    width: 100%;
+    flex: 1 auto;
+    padding: 1rem;
+  }
+  .title-div > p {
+    font-size: 1.3rem;
+    line-height: 2rem;
+  }
+  .right-content-box {
+    width: 100%;
+    flex: 1 auto;
+    padding: 1rem;
+  }
+  .my-subscribers {
+    width: 100%;
+    flex: 1 auto;
+    padding: 1rem;
+  }
+  .sub-description p {
+    font-size: 1.5rem;
+  }
+  .wrap {
+    padding: 1rem;
+  }
+  .youtube {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .instagram {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .dribble {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
